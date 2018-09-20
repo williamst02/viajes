@@ -6,7 +6,7 @@
         
             ?>
 
-  
+     echo "hola";
 
         <div class="content mt-3">  
                     
