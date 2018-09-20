@@ -1,7 +1,7 @@
  
         <!-- Left Panel -->
         <?php 
-        # Recorredid  de   consulta  de  todoas   los  clientes 
+        # Recorredid  de   consulta  de  todos   los  clientes 
         foreach($obtener->result() as $obten);{
         
             ?>
