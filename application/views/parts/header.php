@@ -83,16 +83,16 @@ function mifoto(num) { //cambiar la imagen
 
                     <h3 class="menu-title"><a href="<?= base_url();?>">VIAJEROS</a></h3><!-- /.menu-title -->
                     <li class="">
-                        <a href="<?= base_url('/index.php/Welcome/createuser'); ?>" class="dropdown-toggle"  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-plus"></i>Crear</a>
+                        <a href="<?= base_url('/index.php/Welcome/createuser'); ?>" class="dropdown-toggle"  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-th"></i>Crear</a>
                     </li>
                     <li class="">
-                        <a href="<?=  base_url('/index.php/Welcome/Historial'); ?>" class="dropdown-toggle"  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon  fa fa-plus"></i>Consulta Simple Simple</a>
+                        <a href="<?=  base_url('/index.php/Welcome/Historial'); ?>" class="dropdown-toggle"  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon  fa fa-th"></i>Consulta Simple Simple</a>
                     </li>
                     <li class="">
-                        <a href="<?=  base_url('/index.php/Welcome/consulta')?>" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon  fa fa-envelope"></i>Actualizar</a>
+                        <a href="<?=  base_url('/index.php/Welcome/consulta')?>" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-th"></i>Actualizar</a>
                     </li>
                      <li class="">
-                        <a href="<?=  base_url('/index.php/Welcome/Deleteuser')?>" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon  fa fa-envelope"></i>Eliminar</a>
+                        <a href="<?=  base_url('/index.php/Welcome/Deleteuser')?>" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon  fa fa-th"></i>Eliminar</a>
                     </li>
                     <h3 class="menu-title">RUTAS</h3><!-- /.menu-title -->
                     <li class="">

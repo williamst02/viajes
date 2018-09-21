@@ -1,7 +1,11 @@
  
         <!-- Left Panel -->
         <?php 
+<<<<<<< HEAD
         # Recorredid  de   consulta  de  todos   los  clientes 
+=======
+        # Recorredid  de   consulta  de  todos  los  clientes 
+>>>>>>> 751422475b95a892a30795da1354385489732493
         foreach($obtener->result() as $obten);{
         
             ?>
